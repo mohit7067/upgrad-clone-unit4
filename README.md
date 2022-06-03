@@ -8,7 +8,7 @@
 
 <h1>Screenshots </h1>
  </hr>
-![2022-06-03](https://user-images.githubusercontent.com/97459016/171863718-24d78d00-de3b-4230-9088-84aa46f85d12.png)
+<img src="https://user-images.githubusercontent.com/97459016/171863898-2e9fc6f6-a55c-4b4e-80af-5cb35592c11b.png" />
 
 
 
