@@ -10,7 +10,7 @@
  </hr>
  
 <h4> HOME PAGE </h4>
-![2022-06-03](https://user-images.githubusercontent.com/97459016/171861356-24bd20b3-afe3-456b-b0d3-26cc0cfe7e6d.png)
+(https://user-images.githubusercontent.com/97459016/171861356-24bd20b3-afe3-456b-b0d3-26cc0cfe7e6d.png)
 </hr>
 
 <h4>SIGN UP PAGE</h4>
@@ -30,6 +30,6 @@ https://zippy-starlight-c9d2ae.netlify.app/
 
 </hr>
 <h1>Tech Stack </h1>
-<h6>Client: <p> HTML5, CSS3, JavaScript </p> </h6>
+<h6>Client: <p> HTML5, CSS3, JavaScript, Node.js, MonogDB, Express.js </p> </h6>
 
 <h6>Server: LocalStorage</h6>
