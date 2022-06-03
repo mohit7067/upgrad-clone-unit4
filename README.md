@@ -8,18 +8,11 @@
 
 <h1>Some Picture of website </h1>
  </hr>
- 
-<h4> HOME PAGE </h4>
-(https://user-images.githubusercontent.com/97459016/171861356-24bd20b3-afe3-456b-b0d3-26cc0cfe7e6d.png)
-</hr>
+ ![2022-06-03](https://user-images.githubusercontent.com/97459016/171863073-4b9868ad-de11-4cdb-916f-06aa169a62cd.png)
 
-<h4>SIGN UP PAGE</h4>
-
-![2022-06-03 (1)](https://user-images.githubusercontent.com/97459016/171861752-7b154e30-7d15-4cde-88e9-8995ea88f217.png)
-
-<h4>Anothers Pages of Website</h4>
-![2022-06-03 (2)](https://user-images.githubusercontent.com/97459016/171861860-c775a837-d69d-44b8-a876-a6d8f4d92060.png)
-![2022-06-03 (3)](https://user-images.githubusercontent.com/97459016/171861871-2fb27732-4571-4f20-97b2-6ab594d26426.png)
+![2022-06-03 (1)](https://user-images.githubusercontent.com/97459016/171863096-4e7f1bc2-4c4e-4514-8b3c-ee9dae083562.png)
+![2022-06-03 (2)](https://user-images.githubusercontent.com/97459016/171863112-4bea4055-9f2e-4788-8c64-adbbbf0310ae.png)
+![2022-06-03 (3)](https://user-images.githubusercontent.com/97459016/171863120-720f9143-2bb1-47f8-84fe-5e2ec09f7f55.png)
 
 
 <h1>View Deployment</h1>
