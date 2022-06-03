@@ -6,12 +6,12 @@
 
 </hr>
 
-<h1>Some Picture of website </h1>
+<h1>Screenshots </h1>
  </hr>
-![2022-06-03](https://user-images.githubusercontent.com/97459016/171863411-324ab364-c2e0-4232-bc74-206dac9c8ad2.png)
-![2022-06-03 (3)](https://user-images.githubusercontent.com/97459016/171863423-ee695849-be0a-4898-b28d-7c0044ea6b51.png)
-![2022-06-03 (1)](https://user-images.githubusercontent.com/97459016/171863434-b5fcd739-963b-4625-8867-09f72155b141.png)
-![2022-06-03](https://user-images.githubusercontent.com/97459016/171863440-9a43784b-aabb-443a-8460-29603274d4fd.png)
+![2022-06-03](https://user-images.githubusercontent.com/97459016/171863718-24d78d00-de3b-4230-9088-84aa46f85d12.png)
+
+![2022-06-03 (1)](https://user-images.githubusercontent.com/97459016/171863730-be51d5c4-aefe-4038-bb2d-554f5944de98.png)
+
 
 
 
